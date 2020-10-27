@@ -6,9 +6,9 @@
 
 ### 网址
 
-[AppDeveloper](https://developer.apple.com/cn/)
+* [AppDeveloper](https://developer.apple.com/cn/)
 
-[AppConnect](https://appstoreconnect.apple.com)
+* [AppConnect](https://appstoreconnect.apple.com)
 
 
 ### 视频
