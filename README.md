@@ -4,6 +4,9 @@
 
 ![](https://oscimg.oschina.net/oscnet/up-ccf966bb337a279fecd50892fb002840bb1.JPEG)
 
+[App Developer](https://developer.apple.com/cn/)
+
+[App Connect](https://appstoreconnect.apple.com)
 
 
 [创建App的AppId](https://v.youku.com/v_show/id_XNDkyMzUxNTM3Mg==.html)
