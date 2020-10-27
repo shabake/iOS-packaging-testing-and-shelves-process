@@ -1,9 +1,7 @@
 # iOS打包，蒲公英分发，上架到苹果商店
 
 
-
 ![](https://oscimg.oschina.net/oscnet/up-61f5939d79c8b542629e9eb8fb43603361d.png)
-
 
 
 ### 网址
@@ -12,7 +10,7 @@
 
 * [AppConnect](https://appstoreconnect.apple.com)
 
-* [获取设备udid](https://www.pgyer.com/tools/udid)
+* [获取设备UDID](https://www.pgyer.com/tools/udid)
 
 * [蒲公英分发](https://www.pgyer.com)
 
@@ -34,3 +32,13 @@
 
 [⑪ 上传到苹果商店](https://v.youku.com/v_show/id_XNDkyNDYxNTM4NA==.html)
 
+### ipa上传工具
+
+[Transporter](https://apps.apple.com/cn/app/transporter/id1450874784?mt=12)
+
+[Application Loader](https://pan.baidu.com/s/1BZVkXhZW83zF_jCCRlu53A) 提取密码`y6ib `
+
+
+### 视频源文件
+
+[视频源文件](https://pan.baidu.com/s/1M958w34_V_ZG1YtZkoAqPA)  提取密码`k549 `
