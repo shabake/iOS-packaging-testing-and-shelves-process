@@ -12,6 +12,9 @@
 
 * [AppConnect](https://appstoreconnect.apple.com)
 
+* [获取设备udid](https://www.pgyer.com/tools/udid)
+
+* [蒲公英分发](https://www.pgyer.com)
 
 ### 视频
 
