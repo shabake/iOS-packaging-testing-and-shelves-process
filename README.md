@@ -6,13 +6,13 @@
 
 ### 网址
 
-* [AppDeveloper](https://developer.apple.com/cn/)
+ [AppDeveloper](https://developer.apple.com/cn/)
 
-* [AppConnect](https://appstoreconnect.apple.com)
+[AppConnect](https://appstoreconnect.apple.com)
 
-* [获取设备UDID](https://www.pgyer.com/tools/udid)
+ [获取设备UDID](https://www.pgyer.com/tools/udid)
 
-* [蒲公英分发](https://www.pgyer.com)
+ [蒲公英分发](https://www.pgyer.com)
 
 ### 视频
 
