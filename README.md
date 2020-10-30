@@ -8,6 +8,8 @@
 
 3.其中可能用到的工具或者网址。
 
+4.打包中可能会遇到的问题我放在[Issues](https://github.com/shabake/iOS-packaging-testing-and-shelves-process/issues)中。
+
 ### 流程图
 ![](https://oscimg.oschina.net/oscnet/up-2f193779781395dbbe3cdc6c3be40f1fe12.png)
 
