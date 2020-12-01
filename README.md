@@ -11,7 +11,9 @@
 4.打包中可能会遇到的问题我放在[Issues](https://github.com/shabake/iOS-packaging-testing-and-shelves-process/issues)中。
 
 ### 流程图
-![](https://oscimg.oschina.net/oscnet/up-2f193779781395dbbe3cdc6c3be40f1fe12.png)
+![](https://oscimg.oschina.net/oscnet/up-ed2bc192e8c61c1d8f3b67e0462bd0d5ad1.png)
+
+
 
 
 ### 网址
